@@ -2,12 +2,12 @@
 title: Project List
 subtitle: a list of projects I develop
 layout: "page"
-icon: fa-project-diagram
-order: 3
+icon: fa-list
+order: 1
 ---
 
 
-1. Robert Burton: *The Anatomy of Melancholy*
+1. annotationsUI
 2. Robert Musil: *The Man Without Qualities*
 3. Kazuo Ishiguro: *The Unconsoled*
 4. Malcolm Lowry: *Under the Volcano*
