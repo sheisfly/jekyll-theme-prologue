@@ -1,6 +1,6 @@
 ---
 title: Project List
-subtitle: a list of projects I develop or 
+subtitle: a list of projects I develop
 layout: "page"
 icon: fa-project-diagram
 order: 3
