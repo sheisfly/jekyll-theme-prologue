@@ -1,6 +1,6 @@
 ---
-title: Reading List
-subtitle: a list of books I read
+title: Project List
+subtitle: a list of projects I develop or 
 layout: "page"
 icon: fas fa-project-diagram
 order: 3
