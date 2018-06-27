@@ -2,11 +2,10 @@
 title: Project List
 subtitle: a list of projects I develop
 layout: "page"
-icon: fa-github
+icon: fa-project-diagram
 order: 3
 ---
 
-I love books! Here are some I'm reading now:
 
 1. Robert Burton: *The Anatomy of Melancholy*
 2. Robert Musil: *The Man Without Qualities*
