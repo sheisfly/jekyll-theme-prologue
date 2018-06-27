@@ -2,7 +2,7 @@
 title: Project List
 subtitle: a list of projects I develop or 
 layout: "page"
-icon: fas fa-project-diagram
+icon: fa-project-diagram
 order: 3
 ---
 
