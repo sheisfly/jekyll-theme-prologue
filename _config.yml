@@ -44,8 +44,8 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
 
 # Social settings
-facebook_url: www.facebook.com
-github_url:
+facebook_url: https://www.facebook.com
+github_url:https://githum.com
 googleplus_url:
 instagram_url:
 linkedin_url:
